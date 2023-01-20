@@ -3,7 +3,7 @@ import sys
 import random
 import time
 
-#Using Pygame this code is a barebones game with one player and enemy
+#Using Pygame this code is a barebones game with one player and 'enemies'/projectiles
 
 pygame.init()
 
